@@ -33,25 +33,35 @@ __说明__：每一行代表一个考生，出于保护考生信息的隐私，�
 
 \* : 如不填写该列，请保留该列名并将该列数据置为空，或者在上传的文档中包含表头
 
+# Current Progress
+
+已包含的数据条数：881  
+已经统计好的院校：
+北京大学，清华大学，华东师范大学，北京师范大学，同济大学
+
 # Upload Requirements
 请**严格按照**数据集的结构上传您的文件（支持.csv/.xlsx格式)，方便我们更新数据集。  
+上传要求：
+* 将文件上传到QQ群的CPEER文件夹中
+* 以学校为最小单位上传文档（如XXX大学.csv），请在统计时尽量统计好所有相关专业的信息，提供有效准确的数据，为了保证数据集的质量我们会在审核后增加到数据集
+* 注意不要上传重复的学校，避免重复劳动
 参照文件格式：XXX大学.csv 或 XXX大学.xlsx
-
-
-可以包含表头，也可以不包含
+* 请包含表头：院校|年份|院系|专业|初试成绩|复试成绩|复试满分|总成绩|是否录取
 
 # Maintainment and Update
 从2023年5月30日起至2023年6月17日，我们将会每天根据同学上传数据的负责维护和更新数据集。
 
 # Citation
-Updating
+Contributers:{黄青林，玉晨甫，张诚，still adding...}  
+
+**Please cite us as: CPEER dataset.**
 
 # Notations
 1，放弃的数据不添加  
 
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/%E6%94%BE%E5%BC%83.png)  
 
-2，复试满分不一样的现象  
+2，不同院校复试满分不一样的现象  
 
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/%E6%A0%87%E5%87%86.jpg)
 
