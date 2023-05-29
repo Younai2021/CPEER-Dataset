@@ -43,6 +43,9 @@ __说明__：每一行代表一个考生，出于保护考生信息的隐私，�
 # Maintainment and Update
 从2023年5月30日起至2023年6月17日，我们将会每天根据同学上传数据的负责维护和更新数据集。
 
+# Citation
+Updating
+
 # Notations
 1，放弃的数据不添加  
 
@@ -52,5 +55,4 @@ __说明__：每一行代表一个考生，出于保护考生信息的隐私，�
 
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/%E6%A0%87%E5%87%86.jpg)
 
-# Citation
-Updating
+
