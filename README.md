@@ -46,7 +46,7 @@ __说明__：每一行代表一个考生，出于保护考生信息的隐私，�
 # Notations
 1，放弃的数据不添加  
 
-![image](https://github.com/Younai2021/CPEER-Dataset/edit/main/imgs/放弃.png)  
+![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/%E6%94%BE%E5%BC%83.png)  
 
 2，复试满分不一样的现象  
 
