@@ -1,5 +1,5 @@
 # CPEER-Dataset
-We create an open dataset of China Postgraduate Entrance Exam Record (CPEER) for data analysis.  
+We create an open dataset of **C**hina **P**ostgraduate **E**ntrance **E**xam **R**ecord (CPEER) for data analysis.  
 由张诚，黄青林，玉晨甫共同提出的制作考研数据集的邀请。
 # Motivation
 * 要收集的院校过多  
@@ -34,7 +34,7 @@ __说明__：每一行代表一个考生，出于保护考生信息的隐私，�
 \* : 如不填写该列，请保留该列名并将该列数据置为空，或者在上传的文档中包含表头
 
 # Update Requirement
-请 __严格按照__ 数据集的结构上传您的文件（支持.csv/.xlsx格式)   
+请**严格按照**数据集的结构上传您的文件（支持.csv/.xlsx格式)   
 可以包含表头，也可以不包含
 
 # Maintainment and Update
