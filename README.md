@@ -1,7 +1,7 @@
 # CPEER-Dataset
 We create an open dataset of **C**hina **P**ostgraduate **E**ntrance **E**xam **R**ecord (CPEER) for data analysis.  
 由张诚，黄青林，玉晨甫共同提出的制作考研数据集的邀请。  
-我们公开数据集供所有人使用（Please cite us as: CPEER dataset）
+我们公开数据集供所有人使用（请引用我们: CPEER dataset）
 # Motivation
 * 要收集的院校过多  
 * 多数院校的信息格式不同，存储形式不同，难以获取结构化数据  
