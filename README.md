@@ -108,10 +108,7 @@ data.to_excel('CPEER.xlsx', sheet_name='data',index=False)`
 
 如果你希望自己搞一套处理PDF的程序，希望下面能帮助到你：）
 
-- 一份自己写的不好用的半自动批处理PDF的py：[PDFProcessTool(A Failed Product)](https://github.com/Younai2021/CPEER-Dataset/tree/main/PDFProcessTool)
-
-
-
+- 一份自己写的不好用的半自动批处理PDF的py：[PDFProcessTool(A Failed Product)](https://github.com/Younai2021/CPEER-Dataset/tree/main/PDFProcessTool(A%20Failed%20Product))
 
 
 
