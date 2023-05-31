@@ -87,7 +87,8 @@ Contributers:{黄青林，玉晨甫，张诚，杨名宇，李淑芳，张梓莹
 
 3， 所有成型的version版本是经过如下规范化格式处理，以及人为剔除极个别特殊数据的stable版本，有可能出现因为我们修整后，**造成你的理解产生偏差**
 
-`data = pd.read_excel('CPEER.xlsx')
+```python
+data = pd.read_excel('CPEER.xlsx')
 data = data.replace('\t','', regex=True).replace('\n','', regex=True).replace(' ', '', regex=True)
 data['院校'] = data['院校'].astype(str)
 data['年份'] = data['年份'].astype(int)
@@ -98,7 +99,8 @@ data['复试成绩'] = data['复试成绩'].astype(float)
 data['复试满分'] = data['复试满分'].astype(float)
 data['总成绩'] = data['总成绩'].astype(float)
 data['是否录取'] = data['是否录取'].astype(str)
-data.to_excel('CPEER.xlsx', sheet_name='data',index=False)`
+data.to_excel('CPEER.xlsx', sheet_name='data',index=False)
+```
 
 # Digression
 
