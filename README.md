@@ -74,7 +74,7 @@ v1.1|14592|30
 从2023年5月30日起至2023年6月17日，我们将会定期根据同学上传数据的负责维护和更新数据集。
 
 # Citation
-Contributers:{黄青林，玉晨甫，张诚，杨名宇，李淑芳，张梓莹，梁思思，缪秉辰，王镜淇，陈凯旋 still adding...}  
+Contributers:{黄青林，玉晨甫，张诚，杨名宇，李淑芳，张梓莹，梁思思，缪秉辰，王镜淇，陈凯旋，何瑛琪，方瑞哲 still adding...}  
 
 **Please cite us as: CPEER dataset.**
 
