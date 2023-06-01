@@ -1,8 +1,6 @@
 # CPEER-Dataset
 We create an open dataset of **C**hina **P**ostgraduate **E**ntrance **E**xam **R**ecord (CPEER) for data analysis.  
-Invitation to Create a Graduate Entrance Exam Dataset Proposed by Zhang Cheng, Huang Qinglin, and Yu Chenfu.
-
-We invite you to collaborate on the creation of a dataset for graduate entrance exams. The dataset will be openly available for everyone to use (please cite us as the "CPEER dataset").
+The dataset will be openly available for everyone to use (please cite us as the "CPEER dataset").
 
 
 [简体中文](README.md) | [English](README.en.md)  
