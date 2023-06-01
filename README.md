@@ -3,9 +3,11 @@ We create an open dataset of **C**hina **P**ostgraduate **E**ntrance **E**xam **
 由张诚，黄青林，玉晨甫共同提出的制作考研数据集的邀请。  
 我们公开数据集供所有人使用（请引用我们: CPEER dataset） 
 
-<div align="center">
-[简体中文](README.md) | [English](README.en.md)
-</div>  
+
+
+[简体中文](README.md) | [English](README.en.md)  
+
+
 
 # Motivation
 * 要收集的院校过多  
