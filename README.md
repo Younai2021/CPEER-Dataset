@@ -103,6 +103,7 @@ data['总成绩'] = data['总成绩'].astype(float)
 data['是否录取'] = data['是否录取'].astype(str)
 data.to_excel('CPEER.xlsx', sheet_name='data',index=False)
 ```
+4， 请注意 不同院校但相同专业的名字可能存在出入，例如有个院校在电子信息类中直接描述为：'电子信息'，但有些为：'085422-电子信息'，推荐在跨院校筛选信息时使用**模糊搜索**
 
 # Digression
 
