@@ -45,12 +45,6 @@ __Written Exam Score__ | Score of the candidate in the written exam of the gradu
 
 # Current Progress
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/echarts.png)  
-Number of data entries included: 18,235
-
-Number of universities already accounted for: 37
-
-
-
 
 
 # Archives
