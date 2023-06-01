@@ -91,7 +91,7 @@ Contributers:{黄青林，玉晨甫，张诚，杨名宇，李淑芳，张梓莹
 
 ```python
 data = pd.read_excel('CPEER.xlsx')
-data = data.replace('\t','', regex=True).replace('\n','', regex=True).replace(' ', '', regex=True)
+data = data.replace('\t','', regex=True).replace('\n','', regex=True).replace(' ', '', regex=True).replace('（','(', regex=True).replace('）',')', regex=True)
 data['院校'] = data['院校'].astype(str)
 data['年份'] = data['年份'].astype(int)
 data['院系'] = data['院系'].astype(str)
