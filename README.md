@@ -78,7 +78,7 @@ Contributers:{黄青林，玉晨甫，张诚，杨名宇，李淑芳，张梓莹
 **Please cite us as: CPEER dataset.**
 
 # Notations
-1，放弃：少数民族/夏历营/调剂考生等特殊的数据不添加  
+1，放弃：少数民族/夏令营/调剂考生等特殊的数据不添加  
 
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/%E6%94%BE%E5%BC%83.png)  
 
@@ -146,7 +146,7 @@ data.to_excel('CPEER.xlsx', sheet_name='data',index=False)
 从2023年5月30日起至2023年6月17日，我们将会定期根据同学上传数据的负责维护和更新数据集。  
 
 2023年7月26日，课程结束后更新并存档  
-如果你由任何新的意见或者建议，欢迎随时联系^_^  
+如果你有任何新的意见或者建议，欢迎随时联系^_^  
 QQ: 2285421427
 
 
