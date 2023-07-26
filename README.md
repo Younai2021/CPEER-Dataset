@@ -25,9 +25,6 @@ We create an open dataset of **C**hina **P**ostgraduate **E**ntrance **E**xam **
 华中师范大学|2022|人工智能教育学部|人工智能|400|384|400|92|是
 华中科技大学|2023|计算学部|计算机科学与技术|421|91|100|96|是  
 
-SQLite 数据库文件结构： 
-![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/info1.jpg)  
-![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/info2.jpg)  
 
 
 __说明__：
@@ -47,6 +44,9 @@ __初试成绩__|考生研究生考试初试的成绩<br /> * __关于考试科�
 总成绩|学校给出的文档中考生的总成绩（可能存在不同学校加权不同的情况，仅作参考）
 是否录取|考生是否被录取，格式（是/否）
 
+SQLite 数据库文件结构： 
+![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/info1.jpg)  
+![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/info2.jpg)  
 
 # Collection Progress View
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/echarts.png)  
@@ -145,7 +145,9 @@ data.to_excel('CPEER.xlsx', sheet_name='data',index=False)
 # Maintainment and Update
 从2023年5月30日起至2023年6月17日，我们将会定期根据同学上传数据的负责维护和更新数据集。  
 
-2023年7月26日，课程结束后更新并存档
+2023年7月26日，课程结束后更新并存档  
+如果你由任何新的意见或者建议，欢迎随时联系^_^  
+QQ: 2285421427
 
 
 
