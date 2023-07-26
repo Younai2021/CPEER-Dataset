@@ -50,7 +50,7 @@ SQLite 数据库文件结构：
 # Collection Progress View
 ![image](https://github.com/Younai2021/CPEER-Dataset/blob/main/imgs/echarts.png)  
 
-# Dataset Infomation
+# Dataset Information
 包含的数据条数：**27567**
 
 包含的院校：  共**58**所
